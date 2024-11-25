@@ -1,4 +1,4 @@
-const Dice = require("../Dice");
+const Dice = require("../backend/Dice");
 const assert = require("assert");
 
 describe("Dice class", () => {
